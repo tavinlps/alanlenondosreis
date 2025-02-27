@@ -1,0 +1,7 @@
+body {
+    background-color: #f4f4f4;
+}
+ @media (max-widt:480px)  {
+    body{
+    background-color: red;
+}
